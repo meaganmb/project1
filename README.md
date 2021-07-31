@@ -2,7 +2,9 @@
 This is Project 1 in UCI Data Analytics Bootcamp
 ****
 Our final versions of data, notebooks and outputs can be found in the 'main' folder. 
+
 Our final versions of graphs and plots can be found in the 'Graphs and Plots' folder. 
+
 Our observations can be found as a txt file in the master branch. 
 ****
 In this project, our group utilizes public data from the city of LA open database to analyze crime data between 2019 and 2020 to better understand if there is an impact of COVID-19 on the amount of criminal cases reported. Our hypothesis is that in 2020, there were less reported criminal cases than in 2019 due to COVID-19. To test our hypothesis and to make sense of our data, we conducted analyses on different trends in criminal activities between the two years relating to victim demographics, areas most affected by crimes, and the change in criminal offenses.
